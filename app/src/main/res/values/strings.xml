@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Vibhassignment9.3</string>
+
+    <string-array name="array_Name">
+        <item>Raj</item>
+        <item>Shyam</item>
+        <item>Mohan</item>
+        <item>Kundan</item>
+        <item>Zubair</item>
+        <item>rohit</item>
+    </string-array>
+
+    <string-array name="array_Phone">
+        <item>8899332233</item>
+        <item>8877333223</item>
+        <item>8877333223</item>
+        <item>5844433234</item>
+        <item>8844334433</item>
+        <item>9998834433</item>
+
+    </string-array>
+</resources>
